@@ -41,8 +41,13 @@ The project follows a structured six-step analysis workflow:
 
 ---
 
-## 🧩 Tools and Technologies
-- **Python**: pandas, numpy, scikit-learn, scipy, sklearn
-- **Statistical Analysis**: correlation, Shapiro–Wilk, Levene’s test  
-- **Machine Learning**: K-Means, PCA  
-- **Visualization**: matplotlib, seaborn, 3D PCA plots  
+## 🧩 Technologies & Libraries
+| Technology | Purpose |
+|-----------|---------|
+| **Python 3.9+** | Core language |
+| **Pandas** | Data manipulation and analysis |
+| **NumPy** | Numerical computations |
+| **Matplotlib** | Static visualizations |
+| **Seaborn** | Statistical graphics |
+| **Scikit-learn** | Machine learning (clustering, PCA) |
+| **SciPy** | Statistical tests and distributions |
