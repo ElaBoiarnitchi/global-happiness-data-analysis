@@ -51,3 +51,24 @@ The project follows a structured six-step analysis workflow:
 | **Seaborn** | Statistical graphics |
 | **Scikit-learn** | Machine learning (clustering, PCA) |
 | **SciPy** | Statistical tests and distributions |
+
+---
+
+## 🧾 Author Notes
+This analysis was conducted with attention to:
+- Statistical rigor and proper hypothesis testing
+- Meaningful interpretation of numerical findings
+- Clear communication of insights
+- Professional-grade code quality
+- Realistic business applications
+
+---
+
+## License
+This project was developed **for educational and portfolio purposes only**.  
+The dataset used in this analysis was compiled from publicly available summaries on Numbeo (https://www.numbeo.com/quality-of-life/rankings_by_country.jsp) and the **World Happiness Report 2024**.  
+
+The original Numbeo data is **not redistributed** in this repository in accordance with their data usage policy.  
+Only derived insights, aggregated results, and visualizations are shared.  
+
+The goal of this project is to demonstrate **data analysis, statistical testing, and clustering techniques** within a real-world socio-economic context — not to reproduce or republish proprietary datasets.
