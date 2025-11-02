@@ -175,9 +175,85 @@ Variance across indicators is consistent, meeting the assumption of homogeneity 
 
 ---
 
-## ✅ Summary of Insights
-- Happiness is **positively related** to purchasing power, healthcare, and safety.  
-- It is **negatively affected** by pollution, long commutes, and unaffordable housing.  
-- Four distinct clusters of countries emerge, reflecting different quality-of-life patterns worldwide.
+# 🌍 Key Insights from the Global Happiness and Quality of Life Analysis
 
 ---
+
+## 💰 Economic Insights
+
+1. **Money matters — but not alone.**  
+   Purchasing power shows the strongest positive correlation with happiness (**r = 0.70**).  
+   Higher income levels tend to increase life satisfaction, but wealth improves happiness only when combined with safety, healthcare, and stability.
+
+2. **The cost of comfort.**  
+   Countries with higher purchasing power also face higher living costs (**r = 0.77**).  
+   Economic prosperity often comes with higher expenses — comfort has a financial trade-off.
+
+3. **Housing inequality is striking.**  
+   The *property price-to-income ratio* shows extreme right skewness (2.47) and high kurtosis (9.99).  
+   A few countries experience **severe housing unaffordability**, highlighting global inequality in property markets.
+
+---
+
+## 🏥 Social and Well-Being Insights
+
+4. **Health and safety are silent happiness drivers.**  
+   Healthcare (**r = 0.49**) and safety (**r = 0.29**) correlate positively with happiness.  
+   Societies that invest in healthcare and personal safety achieve higher well-being.
+
+5. **Unhappy commute, unhappy life.**  
+   The *traffic commute time index* correlates negatively with happiness (**r = -0.53**).  
+   Longer, stressful commutes reduce life satisfaction, showing how urban design impacts happiness.
+
+6. **Lebanon’s sharp contrast.**  
+   Lebanon is a major outlier — lowest happiness score (2.71) and highest pollution level (89.6).  
+   Economic instability and environmental stress strongly impact well-being.
+
+---
+
+## 🌱 Environmental Insights
+
+7. **Pollution is the strongest negative factor.**  
+   Happiness and pollution are strongly inversely correlated (**r = -0.73**).  
+   Cleaner environments consistently align with higher happiness levels.
+
+8. **Climate comfort matters — but less than expected.**  
+   The *climate index* has only a weak correlation with happiness.  
+   Favorable weather alone does not make nations happier, though extreme climates lower satisfaction.
+
+9. **The cleaner, the happier.**  
+   Cost of living and pollution have a strong **negative correlation (-0.75)** —  
+   wealthier countries tend to invest in environmental quality, combining prosperity with cleaner living conditions.
+
+---
+
+## 🌎 Cluster-Based Insights (K-Means, k=4)
+
+10. **Four global profiles emerged:**
+
+| Cluster | General Profile | Key Characteristics |
+|----------|-----------------|---------------------|
+| **1️⃣ High-Income & Happy** | Wealthy, safe, low-pollution countries | High happiness, excellent healthcare, high living costs |
+| **2️⃣ Affordable but Polluted** | Low-cost regions with environmental and infrastructure challenges | Lower happiness, high pollution, long commutes |
+| **3️⃣ Safe & Balanced** | Moderate-income, stable societies | Balanced happiness, good safety, average costs |
+| **4️⃣ Developing with Challenges** | Economically and environmentally strained nations | Lowest happiness, poor affordability, high pollution |
+
+These clusters reveal that happiness is **multidimensional**, shaped by the balance between **economy, safety, health, and environment**.
+
+---
+
+## 📈 Global Takeaways
+
+11. **Economic growth doesn’t guarantee happiness** — social and environmental well-being are equally important.  
+12. **Environmental sustainability and happiness are deeply connected** — clean air and livable cities matter as much as income.  
+13. **Happiness is holistic** — it emerges where **economic strength**, **social safety**, and **environmental quality** coexist.
+
+---
+
+## 💡 In One Sentence
+
+> The happiest countries are not necessarily the richest — they are the ones that balance prosperity, safety, and a clean, livable environment.
+
+---
+
+
