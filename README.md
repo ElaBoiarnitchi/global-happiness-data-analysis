@@ -5,6 +5,21 @@ Using open data from **Numbeo** and the **World Happiness Report 2024**, it appl
 
 ---
 
+## Dataset Features
+- **Countries**: Multiple countries across different continents
+- **Metrics**: 8 quality-of-life indicators plus World Happiness Score 2024
+  - Purchasing power index
+  - Safety index
+  - Healthcare index
+  - Cost of living index
+  - Property price to income ratio
+  - Traffic commute time index
+  - Pollution index
+  - Climate index
+  - World Happiness Score 2024
+
+---
+
 ## 🎯 Objectives
 1. Explore the relationships between happiness and socio-economic indicators.
 2. Examine data distribution characteristics (skewness, kurtosis, outliers).
@@ -31,13 +46,3 @@ The project follows a structured six-step analysis workflow:
 - **Statistical Analysis**: correlation, Shapiro–Wilk, Levene’s test  
 - **Machine Learning**: K-Means, PCA  
 - **Visualization**: matplotlib, seaborn, 3D PCA plots  
-
----
-
-## Key Technical Skills Demonstrated
-✅ **Data Manipulation**: Pandas for cleaning, transformation, and aggregation
-✅ **Statistical Analysis**: Scipy for hypothesis testing and distributions
-✅ **Machine Learning**: Scikit-learn for clustering and dimensionality reduction
-✅ **Visualization**: Matplotlib & Seaborn for publication-quality graphics
-✅ **Professional Coding**: Modular design, configuration management, error handling
-✅ **Data Interpretation**: Translating statistical findings into actionable insights
