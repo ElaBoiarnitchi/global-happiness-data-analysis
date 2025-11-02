@@ -13,6 +13,7 @@ Using open data from **Numbeo** and the **World Happiness Report 2024**, it appl
 5. Group countries into clusters with similar life-quality profiles using **K-Means**.
 6. Visualize global patterns through distribution, correlation, and clustering plots.
 
+---
 
 ## 🧠 Methodology
 The project follows a structured six-step analysis workflow:
@@ -23,10 +24,10 @@ The project follows a structured six-step analysis workflow:
 5. Clustering analysis — Perform K-Means clustering on standardized data, determine optimal k using Elbow and Silhouette methods, and visualize results with 3D PCA.
 6. Result export — Save clustered data and visual outputs for interpretation and reporting.
 
+---
 
-## 📊 Outputs
-1. Distribution and correlation plots
-2. Outlier summaries
-3. Statistical test results (normality, variance)
-4. Cluster profiles and 3D visualizations
-5. Final dataset with cluster labels
+## 🧩 Tools and Technologies
+- **Python**: pandas, numpy, scikit-learn, scipy, sklearn
+- **Statistical Analysis**: correlation, Shapiro–Wilk, Levene’s test  
+- **Machine Learning**: K-Means, PCA  
+- **Visualization**: matplotlib, seaborn, 3D PCA plots  
