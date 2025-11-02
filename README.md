@@ -35,7 +35,7 @@ The project follows a structured six-step analysis workflow:
 1. Load and validate data — Import and check dataset integrity, missing values, and descriptive statistics.
 2. Exploratory data analysis (EDA) — Analyze distributions, detect outliers, and compare top and bottom performers.
 3. Correlation analysis — Compute Pearson and Spearman coefficients to identify relationships between indicators and happiness; visualize through heatmaps.
-4. Statistical hypothesis testing — Apply Shapiro–Wilk for normality, ANOVA for mean comparison, and Levene’s test for variance homogeneity.
+4. Statistical hypothesis testing — Apply Shapiro–Wilk for normality and Levene’s test for variance homogeneity.
 5. Clustering analysis — Perform K-Means clustering on standardized data, determine optimal k using Elbow and Silhouette methods, and visualize results with 3D PCA.
 6. Result export — Save clustered data and visual outputs for interpretation and reporting.
 
