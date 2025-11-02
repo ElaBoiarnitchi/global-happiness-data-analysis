@@ -12,3 +12,12 @@ Using open data from **Numbeo** and the **World Happiness Report 2024**, it appl
 4. Identify key happiness drivers through correlation analysis.
 5. Group countries into clusters with similar life-quality profiles using **K-Means**.
 6. Visualize global patterns through distribution, correlation, and clustering plots.
+
+## 🧠 Methodology
+The project follows a structured six-step analysis workflow:
+1. Load and validate data — Import and check dataset integrity, missing values, and descriptive statistics.
+2. Exploratory data analysis (EDA) — Analyze distributions, detect outliers, and compare top and bottom performers.
+3. Correlation analysis — Compute Pearson and Spearman coefficients to identify relationships between indicators and happiness; visualize through heatmaps.
+4. Statistical hypothesis testing — Apply Shapiro–Wilk for normality, ANOVA for mean comparison, and Levene’s test for variance homogeneity.
+5. Clustering analysis — Perform K-Means clustering on standardized data, determine optimal k using Elbow and Silhouette methods, and visualize results with 3D PCA.
+6. Result export — Save clustered data and visual outputs for interpretation and reporting.
