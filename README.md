@@ -25,8 +25,8 @@ The project follows a structured six-step analysis workflow:
 
 
 ## 📊 Outputs
-•	Distribution and correlation plots
-•	Outlier summaries
-•	Statistical test results (normality, variance)
-•	Cluster profiles and 3D visualizations
-•	Final dataset with cluster labels
+1. Distribution and correlation plots
+2. Outlier summaries
+3. Statistical test results (normality, variance)
+4. Cluster profiles and 3D visualizations
+5. Final dataset with cluster labels
