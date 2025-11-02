@@ -31,3 +31,13 @@ The project follows a structured six-step analysis workflow:
 - **Statistical Analysis**: correlation, Shapiro–Wilk, Levene’s test  
 - **Machine Learning**: K-Means, PCA  
 - **Visualization**: matplotlib, seaborn, 3D PCA plots  
+
+---
+
+## Key Technical Skills Demonstrated
+✅ **Data Manipulation**: Pandas for cleaning, transformation, and aggregation
+✅ **Statistical Analysis**: Scipy for hypothesis testing and distributions
+✅ **Machine Learning**: Scikit-learn for clustering and dimensionality reduction
+✅ **Visualization**: Matplotlib & Seaborn for publication-quality graphics
+✅ **Professional Coding**: Modular design, configuration management, error handling
+✅ **Data Interpretation**: Translating statistical findings into actionable insights
